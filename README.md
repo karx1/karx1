@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karx1" alt="karx1" /> </p>
 
+- You can check me out at [https://karx.xyz](https://karx.xyz)
+
 - 🔭 I’m currently working on [SimpleCDN](https://cdn.karx.xyz)
 
 - 🌱 I’m currently learning **Python Django**
