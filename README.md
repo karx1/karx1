@@ -5,11 +5,9 @@
 
 - You can check me out at [https://karx.xyz](https://karx.xyz)
 
-- 🔭 I’m currently working on [SimpleCDN](https://cdn.karx.xyz)
+- 🔭 I’m currently working at [The Domecode](https://domecode.com)
 
 - 🌱 I’m currently learning **Python Django**
-
-- 👯 I’m looking to collaborate on [The Domecode](https://domecode.com)
 
 - 👨‍💻 All of my projects are available at [https://karx.xyz/projects.html](https://karx.xyz/projects.html)
 
