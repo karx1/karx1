@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://karx.xyz/projects.html](https://karx.xyz/projects.html)
 
-- 📝 I regulary write articles on [dev.to](dev.to)
+- 📝 I regulary write articles on [My blog](https://blog.karx.xyz)
 
 - 💬 Ask me about **Python and First Tech Challenge**
 
