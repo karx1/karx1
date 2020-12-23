@@ -1,3 +1,5 @@
+![cover-image](https://user-images.githubusercontent.com/49726028/102956321-86f9bc80-449d-11eb-8abc-6557d7102229.png)
+
 <h1 align="center">Hi 👋, I'm Yash Karandikar.</h1>
 <h3 align="center">A passionate developer from Plano, Texas.</h3>
 
