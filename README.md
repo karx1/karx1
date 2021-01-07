@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [The Domecode](https://domecode.com)
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://karx.xyz/projects.html](https://karx.xyz/projects.html)
 
