@@ -7,15 +7,11 @@
 
 - You can check me out at [https://karx.xyz](https://karx.xyz)
 
-- 🔭 I’m currently working at [The Domecode](https://domecode.com)
-
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning [**Sycamore**](https://github.com/sycamore-rs/sycamore)
 
 - 👨‍💻 All of my projects are available at [https://karx.xyz/projects.html](https://karx.xyz/projects.html)
 
-- 📝 I regulary write articles on [My blog](https://blog.karx.xyz)
-
-- 💬 Ask me about **Python and First Tech Challenge**
+- 💬 Ask me about **Rust, Python, and First Tech Challenge**
 
 - 📫 How to reach me **yashkarandikar158@gmail.com**
 
