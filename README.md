@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning [**Sycamore**](https://github.com/sycamore-rs/sycamore)
 
+- 🔭 I'm currently working on [Circe](https://crates.io/crates/circe)
+
 - 👨‍💻 All of my projects are available at [https://karx.xyz/projects.html](https://karx.xyz/projects.html)
 
 - 💬 Ask me about **Rust, Python, and First Tech Challenge**
