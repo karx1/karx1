@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on [crabtagger](https://github.com/karx1/crabtagger)
 
-- 👨‍💻 All of my projects are available at [https://karx.xyz/projects.html](https://karx.xyz/projects.html)
+- 👨‍💻 All of my projects are available at [https://karx.xyz/projects](https://karx.xyz/projects)
 
 - 💬 Ask me about **Rust, Linux, and First Tech Challenge**
 <h3 align="left">Languages and Tools:</h3>
