@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karx1&label=Profile%20views&color=0e75b6&style=flat" alt="karx1" /> </p>
 
-- 🔭 I'm currently working on [crabtagger](https://github.com/karx1/crabtagger)
+- 🔭 I'm currently working on [multitag](https://github.com/karx1/multitag)
 
 - 👨‍💻 Check out my [website!](https://karx.xyz/)
 
