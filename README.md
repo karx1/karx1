@@ -8,5 +8,3 @@
 - 👨‍💻 Check out my [website!](https://karx.xyz/)
 
 - 💬 Ask me about **Rust, Linux, and First Tech Challenge**
-
-<p><img src="https://myreadme.vercel.app/api/embed/karx1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
